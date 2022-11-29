@@ -2,6 +2,7 @@
 
 We present NEC+, the multivariate time series prediction model we detail in our paper, "An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks," which will be presented at AAAI 2023. Additionally, this GitHub repo contains the data that were used in this paper. If you make use of our code or data, please cite our paper.
 
+```bibtex
 @inproceedings{Li2022AAAI23,
   author    = {Yanhong Li and Jack Xi and David C. Anastasiu},
   title     = {An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks},
@@ -10,6 +11,7 @@ We present NEC+, the multivariate time series prediction model we detail in our 
   publisher = {{AAAI} Press},
   year      = {2023},
 }
+```
 
 
 ## Preliminaries
