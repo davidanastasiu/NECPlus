@@ -4,12 +4,17 @@ We present NEC+, the multivariate time series prediction model we detail in our 
 
 ```bibtex
 @inproceedings{Li2022AAAI23,
-  author    = {Yanhong Li and Jack Xi and David C. Anastasiu},
-  title     = {An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks},
-  booktitle = {Thirty-Seventh {AAAI} Conference on Artificial Intelligence, {AAAI} 2023},
-  pages     = {},
-  publisher = {{AAAI} Press},
-  year      = {2023},
+    author = {Li, Yanhong and Xu, Jack and Anastasiu, David C.},
+    title = {An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks},
+    year = {2023},
+    isbn = {978-1-57735-880-0},
+    publisher = {AAAI Press},
+    url = {https://doi.org/10.1609/aaai.v37i7.26045},
+    doi = {10.1609/aaai.v37i7.26045},
+    booktitle = {Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence and Thirty-Fifth Conference on Innovative Applications of Artificial Intelligence and Thirteenth Symposium on Educational Advances in Artificial Intelligence},
+    articleno = {976},
+    numpages = {8},
+    series = {AAAI'23/IAAI'23/EAAI'23}
 }
 ```
 
